@@ -37,7 +37,7 @@
     "@types/jquery": "^3.3.36",
     "bootstrap": "^4.0.0",
     "chart.js": "^2.8.0",
-    "cordova-android": "7.1.4",
+    "cordova-android": "11.0.0",
     "cordova-browser": "6.0.0",
     "cordova-plugin-advanced-http": "2.0.9",
     "cordova-plugin-cache": "git+https://github.com/tiltshiftfocus/cordova-plugin-cache.git",
